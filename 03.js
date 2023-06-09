@@ -21,8 +21,6 @@ function buscarAmigo(amigos, nombre) {
     if (amigo.nombre === nombre){
       return amigo
     }
-    
-
 
   }
   return null;
